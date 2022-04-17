@@ -1,0 +1,97 @@
+p{
+    font-family:'Times New Roman', Times, serif;}
+
+
+h1{
+    color: rgb(214, 226, 237); /* rgb(136, 159, 182); */
+    line-height: normal;
+}
+
+.subheading{
+    line-break:auto;
+}
+
+.background{
+    background-color:rgb(231, 241, 249);
+}
+
+
+h2{
+    font-size: 52px;
+    text-decoration:solid;
+    margin:0px;
+    padding:0px;
+}
+
+hr{
+    color:black;
+    background-color: currentColor;
+    opacity: 0.30;
+}
+
+h4{
+    font-size: 20px;}
+
+.date-and-time{
+    font-style: italic;
+    line-height: 0px;
+}
+
+.trees{
+    opacity:75%;
+    height:auto;
+    width:max-content;
+    margin-left:-15px;
+    margin-right:-15px;
+
+
+}
+
+
+img {
+    max-width: 33%;
+}
+
+.jump{
+    font-size: 16px;
+    padding: 10px; 
+    margin: 20px;
+    text-align: right;
+}
+
+ .topofabout{
+    text-align: center;
+    line-height: 20px;
+    word-spacing:60px;
+    font-size: 20px;
+    padding: 5px; 
+} 
+
+.keepittogether{
+    word-spacing: normal;
+}
+
+
+.atthebottom{
+    text-decoration-line: underline;
+}
+
+.atthetop{
+    text-align:right;
+    text-decoration-line: underline;
+    margin: 0; 
+    padding: 0;
+}
+
+.contactinfo{
+    text-align:center;
+    font-size: 18px;
+    margin: 0; 
+    padding: 0;
+}
+
+.lastbit{
+    line-height:5px;
+}
+
+
